@@ -36,6 +36,6 @@ begin
 end architecture dataflow;
 ```
 
-![De Morganovy zákony](Images/demorganlaw.png)
+![De Morganovy zakony](Images/demorganlaw.png)
 
 https://www.edaplayground.com/x/LVdh
