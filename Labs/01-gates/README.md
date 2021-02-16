@@ -1,4 +1,8 @@
-# nadpis 1
+# Lab 1 - Gates
+
+## Link to my GitHub
+
+https://github.com/Nikodem-Pradka/Digital-electronics-1
 
 ## Implementace VHDL
 
