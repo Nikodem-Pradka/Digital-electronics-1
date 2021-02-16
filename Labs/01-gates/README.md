@@ -1,7 +1,7 @@
 # nadpis 1
 
 
-```
+```vhdl
 library ieee;               -- Standard library
 use ieee.std_logic_1164.all;-- Package for data types and logic operations
 
