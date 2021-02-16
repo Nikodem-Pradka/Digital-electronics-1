@@ -35,8 +35,8 @@ begin
 
 end architecture dataflow;
 ```
-## Electronic pulses
+### Time waveforms
 
-![demorganlaw](Images/demorganlaw.png)
+![Waveforms](Images/waveforms.png)
 
 https://www.edaplayground.com/x/LVdh
