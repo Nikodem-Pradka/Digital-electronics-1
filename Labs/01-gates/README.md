@@ -41,8 +41,6 @@ end architecture dataflow;
 ```
 ## Image of De Morgan's law
 
-nedaří se aby tady byl ale když ho otevřu v té složce images tak vypadá normálné. Jen tady nefunguje...
-
 ![De Morgan's law](images/Demorgan.png)
 
 ## Odkaz na Edaplaygroun
