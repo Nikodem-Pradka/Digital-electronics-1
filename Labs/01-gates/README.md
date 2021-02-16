@@ -35,6 +35,7 @@ begin
 
 end architecture dataflow;
 ```
+## Electronic pulses
 
 ![demorganlaw](Images/demorganlaw.png)
 
