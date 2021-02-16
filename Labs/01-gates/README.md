@@ -35,8 +35,8 @@ begin
 
 end architecture dataflow;
 ```
-### Time waveforms
+## Image
 
-![Waveforms](Images/waveforms.png)
+![De Morgan's law](Images/demorganlaw.png)
 
 https://www.edaplayground.com/x/LVdh
