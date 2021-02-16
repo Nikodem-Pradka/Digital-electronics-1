@@ -1,8 +1,7 @@
 # nadpis 1
 
 
-``` ## VHDL design code
-
+```
 library ieee;               -- Standard library
 use ieee.std_logic_1164.all;-- Package for data types and logic operations
 
@@ -34,6 +33,5 @@ begin
     --fxor_o <= a_i xor b_i;   -- or scitani
 
 end architecture dataflow;
-
 ```
 https://www.edaplayground.com/x/LVdh
