@@ -24,7 +24,9 @@
 ## 2-bit Comparator
 ### Karnaugh maps with equations
 
-![De Morgan's law](images/Demorgan.png)
+![K-map_less](images/K-map_less.jpg)
+![K-map_equal](images/K-map_equal.jpg)
+![K-map_greater](images/K-map_greater.jpg)
 
 ### Link
 https://www.edaplayground.com/x/s4VY
