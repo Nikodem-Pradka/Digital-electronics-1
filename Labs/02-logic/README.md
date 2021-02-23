@@ -39,9 +39,9 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 ------------------------------------------------------------------------
--- Entity declaration for 2-bit binary comparator
+-- Entity declaration for 4-bit binary comparator
 ------------------------------------------------------------------------
-entity comparator_2bit is
+entity comparator_4bit is
     port(
         a_i           : in  std_logic_vector(4 - 1 downto 0); -- 4 signalizuje 4 vodice pro prehlednost 4 bity
         b_i           : in  std_logic_vector(4 - 1 downto 0);
@@ -54,12 +54,12 @@ entity comparator_2bit is
         B_equals_A_o  : out std_logic;       -- B equals A
         B_greater_A_o : out std_logic        -- B is greater than A
     );
-end entity comparator_2bit;
+end entity comparator_4bit;
 
 ------------------------------------------------------------------------
--- Architecture body for 2-bit binary comparator
+-- Architecture body for 4-bit binary comparator
 ------------------------------------------------------------------------
-architecture Behavioral of comparator_2bit is
+architecture Behavioral of comparator_4bit is
 begin
     B_less_A_o     <= '1' when (b_i < a_i) else '0';
     B_equals_A_o   <= '1' when (b_i = a_i) else '0';
@@ -80,14 +80,14 @@ use ieee.std_logic_1164.all;
 ------------------------------------------------------------------------
 -- Entity declaration for testbench
 ------------------------------------------------------------------------
-entity tb_comparator_2bit is
+entity tb_comparator_4bit is
     -- Entity of testbench is always empty
-end entity tb_comparator_2bit;
+end entity tb_comparator_4bit;
 
 ------------------------------------------------------------------------
 -- Architecture body for testbench
 ------------------------------------------------------------------------
-architecture testbench of tb_comparator_2bit is
+architecture testbench of tb_comparator_4bit is
 
     -- Local signals
     signal s_a           : std_logic_vector(4 - 1 downto 0);
@@ -97,8 +97,8 @@ architecture testbench of tb_comparator_2bit is
     signal s_B_less_A    : std_logic;
 
 begin
-    -- Connecting testbench signals with comparator_2bit entity (Unit Under Test)
-    uut_comparator_2bit : entity work.comparator_2bit
+    -- Connecting testbench signals with comparator_4bit entity (Unit Under Test)
+    uut_comparator_4bit : entity work.comparator_4bit
         port map(
             a_i           => s_a,
             b_i           => s_b,
@@ -182,6 +182,7 @@ begin
     end process p_stimulus;
 
 end architecture testbench;
+
 
 ```
 
