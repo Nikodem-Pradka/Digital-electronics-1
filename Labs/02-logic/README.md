@@ -185,8 +185,10 @@ end architecture testbench;
 
 
 ```
-
+![4bit comparator](images/4-bit-comparator.png)
 ### Simulated error
+
+![Mistake](images/Mistake.png)
 
 ### Link to edaplayground
 
