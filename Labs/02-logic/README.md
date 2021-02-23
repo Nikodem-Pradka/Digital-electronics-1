@@ -1,8 +1,6 @@
-# Lab 1 - Gates
+# Lab 2 - Combinational logic
 
-
-
-
+## Truth table
 
 | **Dec. equivalent** | **B[1:0]** | **A[1:0]** | **B is greater than A** | **B equals A** | **B is less than A** |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -22,3 +20,11 @@
 | 13 | 1 1 | 0 1 | 1 | 0 | 0 |
 | 14 | 1 1 | 1 0 | 1 | 0 | 0 |
 | 15 | 1 1 | 1 1 | 0 | 1 | 0 |
+
+## 2-bit Comparator
+### Karnaugh maps with equations
+
+![De Morgan's law](images/Demorgan.png)
+
+### Link
+https://www.edaplayground.com/x/s4VY
