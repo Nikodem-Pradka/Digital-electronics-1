@@ -89,7 +89,29 @@ end architecture testbench;
 ## Tutorial
 ### Project creation
 
+File -> Project -> New
+![Tutorial](images/NewProject.jpg)
 
+Přídání zdrojového souboru, pojmenování
+![Tutorial](images/NewProjectAddSources.jpg)
+
+### Adding Testbench
+
+File -> Add Sources -> Choose simulation sources a vhodně pojmenovat se začátkem tb_*
+![Tutorial](images/Testbench.jpg)
+![Tutorial](images/Testbench2.jpg)
+
+### Adding XDC Constraints file
+
+File -> Add Sources -> Choose constraints sources a vložit název desky kterou chceme + na konci .xdc
+![Tutorial](images/Constraints.jpg)
+![Tutorial](images/Constraints2.jpg)
+
+### How to run simulation
+
+On left side click Run Simulation -> Run Behavioral Simulation
+
+![Tutorial](images/RunSimulation.jpg)
 
 
 
