@@ -20,3 +20,9 @@
 | LED13 | V14 | SW13 | U12 |
 | LED14 | V12 | SW14 | U11 |
 | LED15 | V11 | SW15 | V10 |
+
+
+## Multiplexer 4
+### Architecture
+
+### Stimulus proces
