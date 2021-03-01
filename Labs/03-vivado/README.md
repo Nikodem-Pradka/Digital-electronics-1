@@ -82,3 +82,6 @@ end architecture Behavioral;
 
 end architecture testbench;
 ```
+### Waveforms
+
+
