@@ -90,7 +90,7 @@ end architecture testbench;
 ### Project creation
 
 File -> Project -> New
-![Tutorial](images/NewProject.jpg)
+![Tutorial](images/NewProject.png)
 
 Přídání zdrojového souboru, pojmenování
 ![Tutorial](images/NewProjectAddSources.jpg)
@@ -111,7 +111,7 @@ File -> Add Sources -> Choose constraints sources a vložit název desky kterou 
 
 On left side click Run Simulation -> Run Behavioral Simulation
 
-![Tutorial](images/RunSimulation.jpg)
+![Tutorial](images/RunSimulation.png)
 
 
 
