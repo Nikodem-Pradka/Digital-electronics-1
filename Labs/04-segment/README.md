@@ -198,4 +198,5 @@ DODĚLAT
                   else '0';
 ```
 ## Screenshot of LED waveforms
-![LED](Ledwaveforms/InOut.jpg)
+
+![LED](images/Ledwaveforms.jpg)
