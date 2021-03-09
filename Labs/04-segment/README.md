@@ -3,7 +3,32 @@
 
 ## Table with connection of 7-segment display
 
-DODĚLAT
+| **Pin anode** | **Common anode** | **Pin catode** | **Catode segment** | 
+| :-: | :-: | :-: | :-: |
+| U13 | AN7 | T10 | CA |
+|     |     | R10 | CB |
+||||
+| K2 | AN6 | K16 | CC |
+|    |     | K13 | CD |
+||||
+| T14 | AN5 | P15 | CE |
+|    |     | T11 | CF |
+||||
+| P14 | AN4 | L18 | CG |
+|    |     | H15 | DP |
+||||
+| J14 | AN3 | T10 | CA |
+|    |     | R10 | CB |
+||||
+| T9 | AN2 | K16 | CC |
+|    |     | K13 | CD |
+||||
+| J18 | AN1 | P15 | CE |
+|    |     | T11 | CF |
+||||
+| J17 | AN0 | L18 | CG |
+|    |     | H15 | DP |
+
 
 ## Decoder Truth table for 7-segment display
 
