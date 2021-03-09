@@ -1,6 +1,6 @@
 # Lab 4 - Segment
 
-
+## Decoder Truth table for 7-segment display
 
 | **Hex** | **Inputs** | **A** | **B** | **C** | **D** | **E** | **F** | **G** | 
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
