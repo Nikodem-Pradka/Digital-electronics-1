@@ -81,7 +81,7 @@ Omlouvám se že nemám odevzdaný úkol, mě tento týdenní úkol úplně vypa
 ```
 ### Screenshot of time waveforms
 
-![Counter](images/Waveformscounter.jpg)
+![Counter](images/waveformscounter.jpg)
 
 ## Top level
 
