@@ -53,12 +53,6 @@ Omlouvám se že nemám odevzdaný úkol, mě tento týdenní úkol úplně vypa
         wait for 73 ns;
 
         s_reset <= '0';
-        wait for 200 ns;
-        
-        s_reset <= '1';
-        wait for 73 ns;
-
-        s_reset <= '0';
         wait;
     end process p_reset_gen;
 
@@ -86,6 +80,8 @@ Omlouvám se že nemám odevzdaný úkol, mě tento týdenní úkol úplně vypa
     end process p_stimulus;
 ```
 ### Screenshot of time waveforms
+
+![Counter](images/Waveformscounter.jpg)
 
 ## Top level
 
@@ -138,3 +134,5 @@ Omlouvám se že nemám odevzdaný úkol, mě tento týdenní úkol úplně vypa
         );
 ```
 ### Image of the top layer
+
+![InputOutput](images/InOut.jpg)
