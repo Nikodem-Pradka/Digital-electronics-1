@@ -17,6 +17,29 @@ Omlouvám se že nemám odevzdaný úkol, mě tento týdenní úkol úplně vypa
 ## Bidirectional counter
 
 ### Listing of VHDL code of the process
+´´´vhdl
+    p_cnt_up_down : process(clk)
+    begin
+        if rising_edge(clk) then
+        
+            if (reset = '1') then               -- Synchronous reset
+                s_cnt_local <= (others => '0'); -- Clear all bits
+
+            elsif (en_i = '1') then       -- Test if counter is enabled
+
+
+                -- TEST COUNTER DIRECTION HERE
+               if(cnt_up_i = '1') then
+                    s_cnt_local <= s_cnt_local + 1;
+               else
+                    s_cnt_local <= s_cnt_local - 1;
+               end if;
+
+
+            end if;
+        end if;
+    end process p_cnt_up_down;
+´´´
 
 ### Listing of VHDL reset and stimulus processes from testbench
 
