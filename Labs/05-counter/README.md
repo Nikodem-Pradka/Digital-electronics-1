@@ -1,5 +1,7 @@
 # Lab 5 - Counter
 
+Omlouvám se že to není vše tentokrát, mě tento týdenní úkol úplně vypadl z hlavy a dělal jsem do jiných předmětů. Až teď pár hodin před odevzdáním jsem si na to vzpomněl a mám co jsem si zvládl v rychlosti. Nevím teď přesně jestli je to potřeba odevzdat celé, nebo stačí jen něco, ale pokud ano tak to určitě vypracuji co nejrychleji, jen mi dejtě prosím vědět.
+
 ### Connection of push buttons
 
 ### Calculated values
