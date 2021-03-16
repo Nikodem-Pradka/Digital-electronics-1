@@ -1,6 +1,6 @@
 # Lab 5 - Counter
 
-Omlouvám se že to není vše tentokrát, mě tento týdenní úkol úplně vypadl z hlavy a dělal jsem do jiných předmětů. Až teď pár hodin před odevzdáním jsem si na to vzpomněl a mám co jsem zvládl v rychlosti. Nevím teď přesně jestli je to potřeba odevzdat celé, nebo stačí jen něco, ale pokud ano tak to určitě vypracuji co nejrychleji, jen mi dejte prosím vědět.
+Omlouvám se že to není vše tentokrát, mě tento týdenní úkol úplně vypadl z hlavy a dělal jsem do jiných předmětů, ještě jsme doma všichni v karanténě z covidu a mě samému není nejlíp už týden. Až teď pár hodin před odevzdáním jsem si na to vzpomněl a mám co jsem zvládl v rychlosti. Nevím teď přesně jestli je to potřeba odevzdat celé, nebo stačí jen něco. Pošlu vám to PDF během noci v emailu.
 
 ### Connection of push buttons
 
