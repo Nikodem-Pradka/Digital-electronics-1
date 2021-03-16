@@ -17,7 +17,7 @@ Omlouvám se že nemám odevzdaný úkol, mě tento týdenní úkol úplně vypa
 ## Bidirectional counter
 
 ### Listing of VHDL code of the process
-´´´vhdl
+```vhdl
     p_cnt_up_down : process(clk)
     begin
         if rising_edge(clk) then
@@ -39,7 +39,7 @@ Omlouvám se že nemám odevzdaný úkol, mě tento týdenní úkol úplně vypa
             end if;
         end if;
     end process p_cnt_up_down;
-´´´
+```
 
 ### Listing of VHDL reset and stimulus processes from testbench
 
