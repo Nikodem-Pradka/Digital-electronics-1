@@ -144,4 +144,5 @@ Omlouvám se že nemám odevzdaný úkol, mě tento týdenní úkol úplně vypa
 ```
 ### Image of the top layer
 
-![InputOutput](images/InOut.jpg)
+![InputOutput](images/4bit.jpg)
+![InputOutput](images/16bit.jpg)
