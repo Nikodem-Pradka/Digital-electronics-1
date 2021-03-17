@@ -4,6 +4,15 @@ Omlouvám se že nemám odevzdaný úkol, mě tento týdenní úkol úplně vypa
 
 ### Connection of push buttons
 
+   | **Button** | **PIN** | **On** | **Off** |
+   | :-: | :-: | :-: | :-: |
+   | BTNL | P17 | 3,3V | 0V |
+   | BTNR | M17 | 3,3V | 0V |
+   | BTNU | M18 | 3,3V | 0V |
+   | BTND | P18 | 3,3V | 0V |
+   | BTNC | N17 | 3,3V | 0V |
+   
+
 ### Calculated values
    | **Time interval** | **Number of clk periods** | **Number of clk periods in hex** | **Number of clk periods in binary** |
    | :-: | :-: | :-: | :-: |
