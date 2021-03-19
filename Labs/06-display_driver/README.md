@@ -148,7 +148,7 @@ end architecture testbench;
 ```
 ### Screenshot of waveforms
 
-![Counter](images/waveformsdriver.jpg)
+![waveforms](images/waveformsdriver.jpg)
 
 ### Listing of VHDL architecture of the top layer
 ```vhdl
@@ -206,4 +206,4 @@ end architecture Behavioral;
 
 ### Image of driver schematic
 
-![Counter](images/waveformscounter.jpg)
+![8digits](images/8digits.jpg)
