@@ -4,6 +4,7 @@
 
 #### D-ff
 Ta tabulka je asi špatně, nenašel jsem v prezentaci jak určit q(n), jen q(n+1)
+
    ![](images/d_ff_rovnice.jpg)
    | **clk** | **d** | **q(n)** | **q(n+1)** |
    | :-: | :-: | :-: | :-: |
