@@ -587,6 +587,8 @@ end Behavioral;
 
 ### Image of the shift register
 
+![](images/shift_register.jpg)
+
 
 
 
