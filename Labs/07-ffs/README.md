@@ -160,28 +160,53 @@ Ta tabulka je asi špatně, moc ji nerozumím
 ## Flip-flops
 
 ### VHDL code listing of the processes p_d_ff_arst, p_d_ff_rst, p_jk_ff_rst, p_t_ff_rst
-#### d_ff_arst
+#### d_ff_arst process
 ```vhdl
 
 ```
-#### d_ff_rst
+#### tb_d_ff_arst process
 ```vhdl
 
 ```
-#### jk_ff_rst
+#### Waveforms
+
+![](images/d_ff_arst.jpg)
+
+#### d_ff_rst process
 ```vhdl
 
 ```
-#### t_ff_rst
+#### tb_d_ff_rst process
 ```vhdl
 
 ```
+#### Waveforms
 
-### Listing of VHDL clock, reset and stimulus processes from the testbench
+![](images/d_ff_rst.jpg)
+
+#### jk_ff_rst process
 ```vhdl
 
 ```
-### Screenshot of time waveforms
+#### tb_jk_ff_rst process
+```vhdl
+
+```
+#### Waveforms
+
+![](images/jk_ff_rst.jpg)
+
+#### t_ff_rst process
+```vhdl
+
+```
+#### tb_t_ff_rst process
+```vhdl
+
+```
+#### Waveforms
+
+![](images/t_ff_rst.jpg)
 
 ## Shift register
 
