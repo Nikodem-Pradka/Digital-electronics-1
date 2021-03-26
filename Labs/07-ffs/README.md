@@ -7,32 +7,32 @@ Ta tabulka je asi špatně, nenašel jsem v prezentaci jak určit q(n), jen q(n+
    ![](images/d_ff_rovnice.jpg)
    | **clk** | **d** | **q(n)** | **q(n+1)** |
    | :-: | :-: | :-: | :-: |
-   | ![rising](Images/eq_uparrow.png) | 0 | 0 | 0 |
-   | ![rising](Images/eq_uparrow.png) | 0 | 0 | 0 |
-   | ![rising](Images/eq_uparrow.png) | 1 | 1 | 1 |
-   | ![rising](Images/eq_uparrow.png) | 1 | 1 | 1 |
+   | ![rising](images/eq_uparrow.png) | 0 | 0 | 0 |
+   | ![rising](images/eq_uparrow.png) | 0 | 0 | 0 |
+   | ![rising](images/eq_uparrow.png) | 1 | 1 | 1 |
+   | ![rising](images/eq_uparrow.png) | 1 | 1 | 1 |
 
 #### JK-ff
    ![](images/jk_ff_rovnice.jpg)
    | **clk** | **j** | **k** | **q(n)** | **q(n+1)** |
    | :-: | :-: | :-: | :-: | :-: |
-   | ![rising](Images/eq_uparrow.png) | 0 | 0 | 0 | 0 |
-   | ![rising](Images/eq_uparrow.png) | 0 | 0 | 1 | 1 |
-   | ![rising](Images/eq_uparrow.png) | 0 | 1 | 0 | 0 |
-   | ![rising](Images/eq_uparrow.png) | 0 | 1 | 1 | 0 |
-   | ![rising](Images/eq_uparrow.png) | 1 | 0 | 0 | 1 |
-   | ![rising](Images/eq_uparrow.png) | 1 | 0 | 1 | 1 |
-   | ![rising](Images/eq_uparrow.png) | 1 | 1 | 0 | 1 |
-   | ![rising](Images/eq_uparrow.png) | 1 | 1 | 1 | 0 |
+   | ![rising](images/eq_uparrow.png) | 0 | 0 | 0 | 0 |
+   | ![rising](images/eq_uparrow.png) | 0 | 0 | 1 | 1 |
+   | ![rising](images/eq_uparrow.png) | 0 | 1 | 0 | 0 |
+   | ![rising](images/eq_uparrow.png) | 0 | 1 | 1 | 0 |
+   | ![rising](images/eq_uparrow.png) | 1 | 0 | 0 | 1 |
+   | ![rising](images/eq_uparrow.png) | 1 | 0 | 1 | 1 |
+   | ![rising](images/eq_uparrow.png) | 1 | 1 | 0 | 1 |
+   | ![rising](images/eq_uparrow.png) | 1 | 1 | 1 | 0 |
    
 #### T-ff
    ![](images/t_ff_rovnice.jpg)
    | **clk** | **t** | **q(n)** | **q(n+1)** |
    | :-: | :-: | :-: | :-: |
-   | ![rising](Images/eq_uparrow.png) | 0 | 0 | 0 |
-   | ![rising](Images/eq_uparrow.png) | 0 | 1 | 1 |
-   | ![rising](Images/eq_uparrow.png) | 1 | 0 | 1 |
-   | ![rising](Images/eq_uparrow.png) | 1 | 1 | 0 |
+   | ![rising](images/eq_uparrow.png) | 0 | 0 | 0 |
+   | ![rising](images/eq_uparrow.png) | 0 | 1 | 1 |
+   | ![rising](images/eq_uparrow.png) | 1 | 0 | 1 |
+   | ![rising](images/eq_uparrow.png) | 1 | 1 | 0 |
 
 
 ## D latch
