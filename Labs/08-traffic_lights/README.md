@@ -139,8 +139,8 @@
 ## Smart controller
 
 ### State table
-First Header |  | kkkdkdkdkd
------------- | ------------- | -------------
+ |  |  | Input | Input | Input | Input 
+-- | -- | -- | -- | -- | -- | -- 
 Content from cell 1 | Content from cell 2 | SDFASDF
 Content in the first column | Content in the second column | 55656565
 ### State diagram
