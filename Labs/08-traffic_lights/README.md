@@ -143,7 +143,6 @@
 | -- | -- | -- | -- | -- | -- | -- |
 | States | States | States | No Cars | Cars to West | Cars to South | Cars both directions |
 | Number | Name | Output | `00` | `01` | `10` | `11` |
-|  |  |  |  |  |  |  |
 | 0 | SOUTH_GO | 100 001 | SOUTH_GO | SOUTH_WAIT | SOUTH_GO | SOUTH_WAIT |
 | 1 | SOUTH_WAIT | 100 110 | WEST_GO | WEST_GO | WEST_GO | WEST_GO |
 | 2 | WEST_GO | 001 100 | WEST_GO | WEST_GO | WEST_WAIT | WEST_WAIT |
