@@ -139,10 +139,15 @@
 ## Smart controller
 
 ### State table
- |  |  | Input | Input | Input | Input 
--- | -- | -- | -- | -- | -- | -- 
-Content from cell 1 | Content from cell 2 | SDFASDF
-Content in the first column | Content in the second column | 55656565
+| - | - | - | Input | Input | Input | Input |
+| -- | -- | -- | -- | -- | -- | -- |
+| States | States | States | No Cars | Cars to West | Cars to South | Cars both directions |
+| Number | Name | Output | `00` | `01` | `10` | `11` |
+| 0 | SOUTH_GO | 100 001 | SOUTH_GO | SOUTH_WAIT | SOUTH_GO | SOUTH_WAIT |
+| 1 | SOUTH_WAIT | 100 110 | WEST_GO | WEST_GO | WEST_GO | WEST_GO |
+| 2 | WEST_GO | 001 100 | WEST_GO | WEST_GO | WEST_WAIT | WEST_WAIT |
+| 3 | WEST_WAIT | 110 100 | SOUTH_GO | SOUTH_GO | SOUTH_GO | SOUTH_GO |
+
 ### State diagram
 
 ### Listing of VHDL code of sequential process p_smart_traffic_fsm
