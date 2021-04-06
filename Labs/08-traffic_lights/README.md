@@ -139,7 +139,7 @@
 ## Smart controller
 
 ### State table
-| - | - | - | Input | Input | Input | Input |  |
+| - | - | - | Input | Input | Input | Input |
 | -- | -- | -- | -- | -- | -- | -- |
 | States | States | States | No Cars | Cars to West | Cars to South | Cars both directions |
 | Number | Name | Output | `00` | `01` | `10` | `11` |
